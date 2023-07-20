@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689855018729,
+  "timestamp": 1689855144384,
   "index": "/cap-app/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/cap-app/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/cap-app/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/cap-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/cap-app/index.html": "b769fda5dd070584a6bec7eca209228075a79a36",
+    "/cap-app/index.html": "335420127b456eebe8480b0f36ac6099b30efbd7",
     "/cap-app/main.c1ba9e0c582a2dee.js": "a4319d90ea155e1fca922b7f6cec242c05951b6e",
     "/cap-app/manifest.webmanifest": "f05b1e28d2fe2ea686f5a53b0759eaf81b6fd7fa",
     "/cap-app/polyfills.02a7d2abdfba30cc.js": "60eba2ec5a953a7f0fca29b4bc95215d81b82fde",
