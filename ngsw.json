@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689855644260,
+  "timestamp": 1689855701696,
   "index": "/cap-app/index.html",
   "assetGroups": [
     {
@@ -52,9 +52,9 @@
     "/cap-app/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/cap-app/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/cap-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/cap-app/index.html": "a8374f826e7ceb8645a6e2ac1edb6509359e18e2",
+    "/cap-app/index.html": "e5432f55853ec1a3153d6a24a8a7b7f1fbe5972c",
     "/cap-app/main.c1ba9e0c582a2dee.js": "a4319d90ea155e1fca922b7f6cec242c05951b6e",
-    "/cap-app/manifest.webmanifest": "376df2905617bd0b2a971f4a76c40a30fd1e9a7a",
+    "/cap-app/manifest.webmanifest": "f05b1e28d2fe2ea686f5a53b0759eaf81b6fd7fa",
     "/cap-app/polyfills.02a7d2abdfba30cc.js": "60eba2ec5a953a7f0fca29b4bc95215d81b82fde",
     "/cap-app/runtime.986e20e336f99458.js": "4e6df77bb0570d279c70250c421cf1c61319c119",
     "/cap-app/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
