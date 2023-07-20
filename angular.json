@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/cap-appbaseHref",
+            "outputPath": "dist/cap-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -46,6 +46,8 @@
                   "maximumError": "4kb"
                 }
               ],
+              "serviceWorker": true,
+              "ngswConfigPath": "ngsw-config.json",
               "outputHashing": "all"
             },
             "development": {
@@ -62,6 +64,9 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
+            "options": {
+              "browserTarget": "capApp:build"
+            },
             "production": {
               "browserTarget": "capApp:build:production"
             },
@@ -99,6 +104,7 @@
       }
     }
   },
+
   "cli": {
     "analytics": false
   }

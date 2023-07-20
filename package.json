@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "predeploy": "ng build --configuration production --base-href=/capapp/",
+    "deploy": "npx gh-pages -d dist/cap-app"
   },
   "private": true,
   "dependencies": {
