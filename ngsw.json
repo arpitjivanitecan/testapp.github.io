@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689853122510,
+  "timestamp": 1689853343300,
   "index": "/capapp/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/capapp/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/capapp/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/capapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/capapp/index.html": "a183157509d55d4c72b9744aa349106e7a64ff0c",
+    "/capapp/index.html": "8849d532b2897c2dbaf05fd7b081e7b13aa84bd9",
     "/capapp/main.c1ba9e0c582a2dee.js": "a4319d90ea155e1fca922b7f6cec242c05951b6e",
     "/capapp/manifest.webmanifest": "8ca50612ee22a4cb718d42db8ac85780b0d696ec",
     "/capapp/polyfills.02a7d2abdfba30cc.js": "60eba2ec5a953a7f0fca29b4bc95215d81b82fde",
