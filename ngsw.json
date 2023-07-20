@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1689851836802,
-  "index": "/cap-app/index.html",
+  "timestamp": 1689852275522,
+  "index": "/capapp/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cap-app/favicon.ico",
-        "/cap-app/index.html",
-        "/cap-app/main.c1ba9e0c582a2dee.js",
-        "/cap-app/manifest.webmanifest",
-        "/cap-app/polyfills.02a7d2abdfba30cc.js",
-        "/cap-app/runtime.986e20e336f99458.js",
-        "/cap-app/styles.ef46db3751d8e999.css"
+        "/capapp/favicon.ico",
+        "/capapp/index.html",
+        "/capapp/main.c1ba9e0c582a2dee.js",
+        "/capapp/manifest.webmanifest",
+        "/capapp/polyfills.02a7d2abdfba30cc.js",
+        "/capapp/runtime.986e20e336f99458.js",
+        "/capapp/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cap-app/assets/icons/icon-128x128.png",
-        "/cap-app/assets/icons/icon-144x144.png",
-        "/cap-app/assets/icons/icon-152x152.png",
-        "/cap-app/assets/icons/icon-192x192.png",
-        "/cap-app/assets/icons/icon-384x384.png",
-        "/cap-app/assets/icons/icon-512x512.png",
-        "/cap-app/assets/icons/icon-72x72.png",
-        "/cap-app/assets/icons/icon-96x96.png"
+        "/capapp/assets/icons/icon-128x128.png",
+        "/capapp/assets/icons/icon-144x144.png",
+        "/capapp/assets/icons/icon-152x152.png",
+        "/capapp/assets/icons/icon-192x192.png",
+        "/capapp/assets/icons/icon-384x384.png",
+        "/capapp/assets/icons/icon-512x512.png",
+        "/capapp/assets/icons/icon-72x72.png",
+        "/capapp/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/cap-app/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/cap-app/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/cap-app/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/cap-app/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/cap-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/cap-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/cap-app/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/cap-app/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/cap-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/cap-app/index.html": "b769fda5dd070584a6bec7eca209228075a79a36",
-    "/cap-app/main.c1ba9e0c582a2dee.js": "a4319d90ea155e1fca922b7f6cec242c05951b6e",
-    "/cap-app/manifest.webmanifest": "8ca50612ee22a4cb718d42db8ac85780b0d696ec",
-    "/cap-app/polyfills.02a7d2abdfba30cc.js": "60eba2ec5a953a7f0fca29b4bc95215d81b82fde",
-    "/cap-app/runtime.986e20e336f99458.js": "4e6df77bb0570d279c70250c421cf1c61319c119",
-    "/cap-app/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/capapp/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/capapp/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/capapp/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/capapp/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/capapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/capapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/capapp/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/capapp/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/capapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/capapp/index.html": "a183157509d55d4c72b9744aa349106e7a64ff0c",
+    "/capapp/main.c1ba9e0c582a2dee.js": "a4319d90ea155e1fca922b7f6cec242c05951b6e",
+    "/capapp/manifest.webmanifest": "8ca50612ee22a4cb718d42db8ac85780b0d696ec",
+    "/capapp/polyfills.02a7d2abdfba30cc.js": "60eba2ec5a953a7f0fca29b4bc95215d81b82fde",
+    "/capapp/runtime.986e20e336f99458.js": "4e6df77bb0570d279c70250c421cf1c61319c119",
+    "/capapp/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
